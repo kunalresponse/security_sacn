@@ -7,3 +7,5 @@ following tasks can be run by a bot:
 4. user_discovery
 
 Each task is an API call to the Audiance server
+
+Note: In settings.py provide your Github authkey
